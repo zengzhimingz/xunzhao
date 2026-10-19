@@ -27,3 +27,7 @@ tmp/
 *.pdf
 *.docx
 *.pptx
+!docs/images/workspace.jpg
+!docs/images/record.jpg
+!docs/images/arrival.jpg
+!docs/images/doctor.jpg
